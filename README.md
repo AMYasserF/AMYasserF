@@ -33,7 +33,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=AMYasserF&bg_color=00000000&hide_border=true&include_all_commits=false&count_private=false&title_color=f5ce16&icon_color=1da5e2&text_color=333333" width="49%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AMYasserF&bg_color=00000000&hide_border=true&layout=compact&title_color=f5ce16&icon_color=1da5e2&text_color=333333" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AMYasserF&bg_color=00000000&hide_border=true&layout=compact&title_color=f5ce16&icon_color=1da5e2&text_color=333333" width="40%" />
 </p>
 
 <br/>
