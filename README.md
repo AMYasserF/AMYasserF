@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ammar 👋</h1>
 
 <div>
-  <img align="right" src="gif.gif" alt="Profile Animation" width="48%" />
+  <img align="right" src="gif.gif" alt="Profile Animation" width="48%" hspace="20" style="margin-left: 30px;" />
   
   <h3>🚀 About Me</h3>
   <p>
@@ -32,8 +32,8 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AMYasserF&bg_color=282c34&hide_border=true&include_all_commits=false&count_private=false&title_color=f5ce16&icon_color=1da5e2&text_color=ffffff" width="49%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AMYasserF&bg_color=282c34&hide_border=true&layout=compact&title_color=f5ce16&icon_color=1da5e2&text_color=ffffff" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=AMYasserF&bg_color=00000000&hide_border=true&include_all_commits=false&count_private=false&title_color=f5ce16&icon_color=1da5e2&text_color=333333" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AMYasserF&bg_color=00000000&hide_border=true&layout=compact&title_color=f5ce16&icon_color=1da5e2&text_color=333333" width="49%" />
 </p>
 
 <br/>
