@@ -8,7 +8,7 @@
     🎓 Computer Engineering student at Cairo University.<br/>
     🔍 Exploring 3D computer vision, deep learning, and NeRFs.<br/>
     💻 Building scalable frontends with React and Next.js.<br/>
-    📸 Offline, you'll find me experimenting with photography or making pasta.
+    📸 Offline, you'll find me experimenting with photography <br/> or making pasta.
   </p>
   <h3>📫 Socials</h3>
   <p>
