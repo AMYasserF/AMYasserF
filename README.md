@@ -1,24 +1,55 @@
-# 💫 About Me:
-I am a Computer Engineering student at Cairo University and a React & Next.js developer with a strong interest in building scalable, user-focused applications. I enjoy transforming complex ideas into clean, interactive interfaces while maintaining solid engineering foundations.<br><br>My experience spans frontend development, system architecture, and applied engineering projects, including educational platforms, 3D simulations, image processing applications, and hardware accelerator design. I have participated in international challenges such as the NASA Space Apps Challenge and completed specialized training in Machine Learning and DevOps.<br><br>I am a project-driven learner who values clean architecture, performance, and continuous improvement, and I am actively seeking opportunities to grow as a well-rounded software engineer.
+<h1 align="center">Hi there, I'm Ammar 👋</h1>
 
+<table width="100%" style="border: none; background-color: transparent;">
+  <tr>
+    <!-- LEFT COLUMN: ABOUT & SOCIALS -->
+    <td width="50%" valign="top" style="border: none;">
+      <h3>🚀 About Me</h3>
+      <p>
+        🎓 Computer Engineering student at Cairo University.<br/>
+        🔍 Exploring 3D computer vision, deep learning, and NeRFs.<br/>
+        💻 Building scalable frontends with React and Next.js.<br/>
+        📸 Offline, you'll find me experimenting with photography or baking sourdough.
+      </p>
+      <h3>📫 Socials</h3>
+      <p>
+        <a href="https://discord.gg/ammar_.yasser__12725"><img src="discord.svg" alt="Discord" width="30" height="30" /></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.linkedin.com/in/ammar-yasser-89695b2a2"><img src="linkedin.svg" alt="LinkedIn" width="30" height="30" /></a>&nbsp;&nbsp;&nbsp;
+        <a href="mailto:ammaryasser9724@gmail.com"><img src="gmail.svg" alt="Email" width="30" height="30" /></a>
+      </p>
+    </td>
+    <!-- RIGHT COLUMN: ANIMATION -->
+    <td width="50%" valign="top" align="center" style="border: none;">
+      <img src="gif.gif" alt="Profile Animation" width="100%" style="border: none;" />
+    </td>
+  </tr>
+</table>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ammar_.yasser__12725) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ammar-yasser-89695b2a2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ammaryasser9456@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AMYasserF&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AMYasserF&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AMYasserF&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">🛠️ Languages & Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,ts,react,nextjs,sass,bash,azure,gcp,firebase,postgres,mongodb,git,docker,linux,pytorch,sklearn,fastapi" alt="Tech Stack" />
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AMYasserF&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AMYasserF&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="center">📊 GitHub Stats</h3>
+<table width="100%" style="border: none; background-color: transparent;">
+  <tr>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <img src="https://github-readme-stats.shion.dev/api?username=AMYasserF&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&title_color=f5ce16&icon_color=1da5e2&text_color=ffffff" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AMYasserF&theme=transparent&hide_border=true&layout=compact&title_color=f5ce16&icon_color=1da5e2&text_color=ffffff" width="100%" />
+    </td>
+  </tr>
+</table>
 
----
-[![](https://visitcount.itsvg.in/api?id=AMYasserF&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AMYasserF/AMYasserF/output/github-snake-dark.svg" alt="snake gif" width="100%" />
+</div>
